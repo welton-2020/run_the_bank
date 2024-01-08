@@ -1,26 +1,35 @@
-Claro! Vamos adicionar alguns ícones e formatação para tornar o README mais visualmente atraente:
+<h1>Run The Bank</h1>
 
-```markdown
-# Projeto Run The Bank
-
-[![License](https://img.shields.io/github/license/seu-usuario/seu-repositorio)](LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/seu-usuario/seu-repositorio)](https://github.com/seu-usuario/seu-repositorio/commits/main)
-
-Descrição curta do projeto.
+>Status: Em desenvolvimento ⚠️
+##Tecnologias usadas:
+<table>
+  <tr>
+    <td>Java</td>
+    <td>Spring Boot</td>
+    <td>Spring Data JPA</td>
+    <td>Banco de Dados H2</td>
+  </tr>
+  <tr>
+    <td>17.*</td>
+    <td>3.*</td>
+    <td>3.*</td>
+    <td>2.*</td>
+  </tr>
+</table>
 
 ## Índice
 
-- [Instalação](#instalação)
-- [Como usar](#como-usar)
-- [Endpoints](#endpoints)
-- [Payloads de Exemplo](#payloads-de-exemplo)
-- [Swagger](#swagger)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
++ [Instalação](#instalação)
++ [Como usar](#como-usar)
++ [Endpoints](#endpoints)
++ [Payloads de Exemplo](#payloads-de-exemplo)
++ [Swagger](#swagger)
++ [Contribuição](#contribuição)
++ [Licença](#licença)
 
 ## 🚀 Instalação
 
-Instruções de como instalar e configurar o projeto localmente.
+>Instruções de como instalar e configurar o projeto localmente.
 
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
@@ -30,7 +39,7 @@ cd seu-repositorio
 
 ## 📋 Como usar
 
-Explicação sobre como usar o projeto após a instalação.
+>Explicação sobre como usar o projeto após a instalação.
 
 ## 🔗 Endpoints
 
@@ -49,11 +58,11 @@ Payload de exemplo:
 
 ### `/conta/buscar-todos` (GET)
 
-Recupera todas as contas.
+>Recupera todas as contas.
 
 ### `/conta/find-by-id/{id}` (GET)
 
-Recupera uma conta pelo ID.
+>Recupera uma conta pelo ID.
 
 ### `/conta/update-for-id/{id}` (PUT)
 
@@ -104,5 +113,3 @@ Instruções para contribuir com o projeto.
 
 Este projeto está licenciado sob a licença XYZ. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 ```
-
-Essa versão inclui emojis, ícones e formatação adicional para tornar o README mais atraente. Certifique-se de ajustar os links e os detalhes conforme necessário para o seu projeto.
