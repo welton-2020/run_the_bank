@@ -1,4 +1,4 @@
-<h1>Projeto Run The Bank</h1>
+<h1>![conta](https://github.com/welton-2020/run_the_bank/assets/69021057/696c4d48-8f3c-488c-915f-6f81aa9d64c5)</h1>
 
 >Status: Em desenvolvimento ⚠️
 ##Tecnologias usadas:
